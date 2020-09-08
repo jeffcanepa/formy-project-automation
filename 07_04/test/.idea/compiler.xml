@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <option name="BUILD_PROCESS_HEAP_SIZE" value="4096" />
+    <option name="BUILD_PROCESS_ADDITIONAL_VM_OPTIONS" value="-Xms512m -Xmx4096m -XX:MaxMetaspaceSize=512m -XX:ReservedCodeCacheSize=512m -XX:+UseCompressedOops" />
+    <wildcardResourcePatterns>
+      <entry name="?*.properties" />
+      <entry name="?*.xml" />
+      <entry name="?*.gif" />
+      <entry name="?*.png" />
+      <entry name="?*.jpeg" />
+      <entry name="?*.jpg" />
+      <entry name="?*.html" />
+      <entry name="?*.dtd" />
+      <entry name="?*.tld" />
+      <entry name="?*.ftl" />
+      <entry name="?*.js" />
+    </wildcardResourcePatterns>
+  </component>
+</project>
